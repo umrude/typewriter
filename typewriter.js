@@ -9,7 +9,7 @@ for (const char of sentence) {
 }
 
 const print = function() {
-  console.log(" ");
+  console.log("\n");
 };
 
 let totalTime = 75 * sentence.length;
